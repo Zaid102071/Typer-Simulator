@@ -1,9 +1,6 @@
 <div align="center">
   
-  <img src="https://img.shields.io/badge/version-1.0.0-brightgreen" alt="Version">
-  <img src="https://img.shields.io/badge/java-17%2B-orange" alt="Java Version">
-  <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
-  <img src="https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey" alt="Platform">
+  <img src="screenshots/gameplay.png" alt="Typer Simulator Gameplay" width="600">
   
   <h1 align="center">⌨️ Typer Simulator</h1>
   
@@ -13,8 +10,14 @@
   </p>
   
   <p align="center">
+    <img src="https://img.shields.io/badge/version-1.0.0-brightgreen" alt="Version">
+    <img src="https://img.shields.io/badge/java-17%2B-orange" alt="Java Version">
+    <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
+    <img src="https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey" alt="Platform">
+  </p>
+  
+  <p align="center">
     <a href="#-features">Features</a> •
-    <a href="#-screenshots">Screenshots</a> •
     <a href="#-installation">Installation</a> •
     <a href="#-how-to-play">How to Play</a> •
     <a href="#-tech-stack">Tech Stack</a>
@@ -52,13 +55,11 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 More Screenshots
 
-### Main Menu
-![Main Menu](screenshots/mainmenu.png)
-
-### Gameplay
-![Gameplay](screenshots/gameplay.png)
+<p align="center">
+  <img src="screenshots/mainmenu.png" alt="Main Menu" width="400">
+</p>
 
 ---
 
